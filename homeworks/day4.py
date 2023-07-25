@@ -1,6 +1,6 @@
 #asking user about private information
 user_name = input("insert your name: ")
-user_surname = input("insert your surname: ")
+user_surname = input("insert your surname ")
 user_age = input("what's your age? ")
 user_birthday = input("insert your birthday: ")
 user_hobby = input("whats your favourite thing to do in your free time? ")
