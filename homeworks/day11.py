@@ -6,3 +6,5 @@ for i in range(1,100):
         print(i,'GOA11')
     if i % 3 == 0:
         print(i,'GOA')
+    else:
+        print(i)
