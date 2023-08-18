@@ -3,7 +3,7 @@ full_name = ['d','a','t','o','j','a','t','c','h','v','a','d','z','e']
 x = 0
 y = 0
 while(x < len(full_name)):
-    if x == 'a' or 'e' or 'i' or 'o' or 'u': 
+    if full_name[x] == 'a' or 'e' or 'i' or 'o' or 'u': 
         y = y + 1
         x = x + 1
        
