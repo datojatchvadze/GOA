@@ -1,0 +1,30 @@
+h1{
+    color:rgb(0, 255, 21);
+}
+button{
+    background-color:rgb(1, 1, 1)
+    
+    
+}
+p{
+    color:rgb(0, 255, 30)
+}
+p,h1,h4,h3{
+    text-align: center;
+}
+a{
+    color:rgb(255, 0, 0)
+}
+h3{
+    color:chartreuse
+}
+.intro{
+    color:rgb(255, 0, 183)
+}
+body{
+    background-image:url(backgr.jpg);
+    background-size: cover;
+}
+button a{
+    color:gold
+}
